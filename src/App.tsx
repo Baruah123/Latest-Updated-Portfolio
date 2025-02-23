@@ -116,7 +116,7 @@ function App() {
               transition={{ duration: 0.8, delay: 0.2 }}
             >
               <img
-                src={userImage}
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW8yZ2L_os8yGUnnAltT9fcdf1BFIbSD2tjg&s"
                 alt="Avoy Baruah"
                 className="w-32 h-32 md:w-48 md:h-48 rounded-full border-4 border-indigo-600 shadow-xl object-cover"
                 loading="lazy"
